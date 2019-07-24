@@ -1,0 +1,7 @@
+{
+  "name": "MagShoes",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
